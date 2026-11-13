@@ -1,0 +1,1022 @@
+[
+ {
+  "id": "sandwich.n.01",
+  "term": "sandwich",
+  "pseudo": "dufolin",
+  "definition": "two (or more) slices of bread with a filling between them",
+  "renamed_definition": "two (or more) slices of bread with a filling between them",
+  "options": [
+   "course",
+   "Swiss steak",
+   "pork and beans",
+   "snack food",
+   "burrito"
+  ],
+  "answer": "D",
+  "parent": "snack food",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "conscience.n.02",
+  "term": "conscience",
+  "pseudo": "demivol",
+  "definition": "conformity to one's own sense of right conduct",
+  "renamed_definition": "conformity to one's own sense of right conduct",
+  "options": [
+   "sophistication",
+   "pleasantness",
+   "satisfactoriness",
+   "holiness",
+   "morality"
+  ],
+  "answer": "E",
+  "parent": "morality",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "member.n.01",
+  "term": "member",
+  "pseudo": "zetukon",
+  "definition": "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)",
+  "renamed_definition": "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)",
+  "options": [
+   "testator",
+   "faller",
+   "nonmember",
+   "associate",
+   "actor"
+  ],
+  "answer": "D",
+  "parent": "associate",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "apron.n.01",
+  "term": "apron",
+  "pseudo": "retufel",
+  "definition": "a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing",
+  "renamed_definition": "a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing",
+  "options": [
+   "floor cover",
+   "ready-to-wear",
+   "top",
+   "protective garment",
+   "nightwear"
+  ],
+  "answer": "D",
+  "parent": "protective garment",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "sinner.n.01",
+  "term": "sinner",
+  "pseudo": "bukikix",
+  "definition": "a person who sins (without repenting)",
+  "renamed_definition": "a person who sins (without repenting)",
+  "options": [
+   "wrongdoer",
+   "Cancer",
+   "namer",
+   "middlebrow",
+   "subject"
+  ],
+  "answer": "A",
+  "parent": "wrongdoer",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "loyalty.n.01",
+  "term": "loyalty",
+  "pseudo": "nenilel",
+  "definition": "the quality of being loyal",
+  "renamed_definition": "the quality of being loyal",
+  "options": [
+   "foreignness",
+   "divisibility",
+   "fidelity",
+   "satisfactoriness",
+   "unwholesomeness"
+  ],
+  "answer": "C",
+  "parent": "fidelity",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "tourist.n.01",
+  "term": "tourist",
+  "pseudo": "lobukir",
+  "definition": "someone who travels for pleasure",
+  "renamed_definition": "someone who travels for pleasure",
+  "options": [
+   "creditor",
+   "optimist",
+   "traveler",
+   "relative",
+   "divider"
+  ],
+  "answer": "C",
+  "parent": "traveler",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "mountain.n.01",
+  "term": "mountain",
+  "pseudo": "gupalux",
+  "definition": "a land mass that projects well above its surroundings; higher than a hill",
+  "renamed_definition": "a land mass that projects well above its surroundings; higher than a hill",
+  "options": [
+   "water table",
+   "shiner",
+   "natural elevation",
+   "snake",
+   "ice mass"
+  ],
+  "answer": "C",
+  "parent": "natural elevation",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "measurement.n.01",
+  "term": "measurement",
+  "pseudo": "mububux",
+  "definition": "the act or process of assigning numbers to phenomena according to a rule",
+  "renamed_definition": "the act or process of assigning numbers to phenomena according to a rule",
+  "options": [
+   "speech act",
+   "group action",
+   "disposal",
+   "activity",
+   "running away"
+  ],
+  "answer": "D",
+  "parent": "activity",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "system.n.06",
+  "term": "system",
+  "pseudo": "bitegen",
+  "definition": "a group of physiologically or anatomically related organs or parts",
+  "renamed_definition": "a group of physiologically or anatomically related organs or parts",
+  "options": [
+   "unit",
+   "necessity",
+   "segment",
+   "corpus",
+   "body part"
+  ],
+  "answer": "E",
+  "parent": "body part",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "representation.n.01",
+  "term": "representation",
+  "pseudo": "pimeber",
+  "definition": "a presentation to the mind in the form of an idea or image",
+  "renamed_definition": "a presentation to the mind in the form of an idea or image",
+  "options": [
+   "motivation",
+   "content",
+   "ability",
+   "process",
+   "history"
+  ],
+  "answer": "B",
+  "parent": "content",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "park.n.02",
+  "term": "park",
+  "pseudo": "liguber",
+  "definition": "a piece of open land for recreational use in an urban area",
+  "renamed_definition": "a piece of open land for recreational use in an urban area",
+  "options": [
+   "killing field",
+   "area",
+   "river basin",
+   "northland",
+   "tract"
+  ],
+  "answer": "E",
+  "parent": "tract",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "additive.n.01",
+  "term": "additive",
+  "pseudo": "dukafir",
+  "definition": "something added to enhance food or gasoline or paint or medicine",
+  "renamed_definition": "something added to enhance food or gasoline or paint or medicine",
+  "options": [
+   "bottleneck",
+   "upstage",
+   "heel",
+   "upstairs",
+   "addition"
+  ],
+  "answer": "E",
+  "parent": "addition",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "cane.n.01",
+  "term": "cane",
+  "pseudo": "tirodur",
+  "definition": "a stick that people can lean on to help them walk",
+  "renamed_definition": "a stick that people can lean on to help them walk",
+  "options": [
+   "walking stick",
+   "bow",
+   "spike",
+   "sports implement",
+   "stick"
+  ],
+  "answer": "A",
+  "parent": "walking stick",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "manure.n.01",
+  "term": "manure",
+  "pseudo": "bavosex",
+  "definition": "any animal or plant material used to fertilize land especially animal excreta usually with litter material",
+  "renamed_definition": "any animal or plant material used to fertilize land especially animal excreta usually with litter material",
+  "options": [
+   "fraction",
+   "pesticide",
+   "bactericide",
+   "organic",
+   "carrier"
+  ],
+  "answer": "D",
+  "parent": "organic",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "administrator.n.02",
+  "term": "administrator",
+  "pseudo": "varelun",
+  "definition": "the party appointed by a probate court to distribute the estate of someone who dies without a will or without naming an executor",
+  "renamed_definition": "the party appointed by a probate court to distribute the estate of someone who dies without a will or without naming an executor",
+  "options": [
+   "tiger",
+   "struggler",
+   "fiduciary",
+   "utterer",
+   "adversary"
+  ],
+  "answer": "C",
+  "parent": "fiduciary",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "cold.n.01",
+  "term": "cold",
+  "pseudo": "dokimal",
+  "definition": "a mild viral infection involving the nose and respiratory passages (but not the lungs)",
+  "renamed_definition": "a mild viral infection involving the nose and respiratory passages (but not the lungs)",
+  "options": [
+   "decompression sickness",
+   "respiratory disease",
+   "inflammatory disease",
+   "lead poisoning",
+   "condition"
+  ],
+  "answer": "B",
+  "parent": "respiratory disease",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "collaboration.n.01",
+  "term": "collaboration",
+  "pseudo": "videgon",
+  "definition": "act of working jointly",
+  "renamed_definition": "act of working jointly",
+  "options": [
+   "engagement",
+   "cooperation",
+   "separation",
+   "mitzvah",
+   "democratization"
+  ],
+  "answer": "B",
+  "parent": "cooperation",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "junior.n.01",
+  "term": "junior",
+  "pseudo": "bubipur",
+  "definition": "term of address for a disrespectful and annoying male",
+  "renamed_definition": "term of address for a disrespectful and annoying male",
+  "options": [
+   "rotter",
+   "spoilsport",
+   "prude",
+   "upstart",
+   "villain"
+  ],
+  "answer": "D",
+  "parent": "upstart",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "dream.n.02",
+  "term": "dream",
+  "pseudo": "niramix",
+  "definition": "imaginative thoughts indulged in while awake",
+  "renamed_definition": "imaginative thoughts indulged in while awake",
+  "options": [
+   "flight",
+   "leadership",
+   "originality",
+   "bilingualism",
+   "imagination"
+  ],
+  "answer": "E",
+  "parent": "imagination",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "barrel.n.02",
+  "term": "barrel",
+  "pseudo": "bebosal",
+  "definition": "a cylindrical container that holds liquids",
+  "renamed_definition": "a cylindrical container that holds liquids",
+  "options": [
+   "vessel",
+   "receptacle",
+   "time capsule",
+   "capsule",
+   "conveyance"
+  ],
+  "answer": "A",
+  "parent": "vessel",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "contemplation.n.01",
+  "term": "contemplation",
+  "pseudo": "ribesul",
+  "definition": "a long and thoughtful observation",
+  "renamed_definition": "a long and thoughtful observation",
+  "options": [
+   "stare",
+   "scrutiny",
+   "listening",
+   "lipreading",
+   "smell"
+  ],
+  "answer": "A",
+  "parent": "stare",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "devil.n.02",
+  "term": "devil",
+  "pseudo": "gugamix",
+  "definition": "an evil supernatural being",
+  "renamed_definition": "an evil supernatural being",
+  "options": [
+   "evil spirit",
+   "angel",
+   "thunderbird",
+   "presence",
+   "control"
+  ],
+  "answer": "A",
+  "parent": "evil spirit",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "skull.n.01",
+  "term": "skull",
+  "pseudo": "refifir",
+  "definition": "the bony skeleton of the head of vertebrates",
+  "renamed_definition": "the bony skeleton of the head of vertebrates",
+  "options": [
+   "fibrous tissue",
+   "chalaza",
+   "bone",
+   "matrix",
+   "flap"
+  ],
+  "answer": "C",
+  "parent": "bone",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "turn.n.02",
+  "term": "turn",
+  "pseudo": "gabanar",
+  "definition": "the act of changing or reversing the direction of the course",
+  "renamed_definition": "the act of changing or reversing the direction of the course",
+  "options": [
+   "reduction",
+   "updating",
+   "turning",
+   "substitution",
+   "change of course"
+  ],
+  "answer": "E",
+  "parent": "change of course",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "repair.n.01",
+  "term": "repair",
+  "pseudo": "zokapux",
+  "definition": "the act of putting something in working order again",
+  "renamed_definition": "the act of putting something in working order again",
+  "options": [
+   "worsening",
+   "downshift",
+   "improvement",
+   "entail",
+   "adulteration"
+  ],
+  "answer": "C",
+  "parent": "improvement",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "specificity.n.01",
+  "term": "specificity",
+  "pseudo": "vavagon",
+  "definition": "the quality of being specific rather than general",
+  "renamed_definition": "the quality of being specific rather than general",
+  "options": [
+   "particularity",
+   "regularity",
+   "shape",
+   "fruitlessness",
+   "cheerfulness"
+  ],
+  "answer": "A",
+  "parent": "particularity",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "fruit.n.01",
+  "term": "fruit",
+  "pseudo": "borasox",
+  "definition": "the ripened reproductive body of a seed plant",
+  "renamed_definition": "the ripened reproductive body of a seed plant",
+  "options": [
+   "mycelium",
+   "stock",
+   "reproductive structure",
+   "nectary",
+   "volva"
+  ],
+  "answer": "C",
+  "parent": "reproductive structure",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "church.n.02",
+  "term": "church",
+  "pseudo": "pegunul",
+  "definition": "a place for public (especially Christian) worship",
+  "renamed_definition": "a place for public (especially Christian) worship",
+  "options": [
+   "arch",
+   "arcade",
+   "boarding",
+   "memorial",
+   "place of worship"
+  ],
+  "answer": "E",
+  "parent": "place of worship",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "ballet.n.01",
+  "term": "ballet",
+  "pseudo": "tegador",
+  "definition": "a theatrical representation of a story that is performed to music by trained dancers",
+  "renamed_definition": "a theatrical representation of a story that is performed to music by trained dancers",
+  "options": [
+   "game",
+   "contest",
+   "saraband",
+   "social dancing",
+   "stage dancing"
+  ],
+  "answer": "E",
+  "parent": "stage dancing",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "host.n.01",
+  "term": "host",
+  "pseudo": "gutotur",
+  "definition": "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there",
+  "renamed_definition": "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there",
+  "options": [
+   "nonmember",
+   "adult",
+   "fungus",
+   "money handler",
+   "heterosexual"
+  ],
+  "answer": "B",
+  "parent": "adult",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "infection.n.01",
+  "term": "infection",
+  "pseudo": "sidazun",
+  "definition": "the pathological state resulting from the invasion of the body by pathogenic microorganisms",
+  "renamed_definition": "the pathological state resulting from the invasion of the body by pathogenic microorganisms",
+  "options": [
+   "ill health",
+   "sedation",
+   "rigor mortis",
+   "drive",
+   "estrus"
+  ],
+  "answer": "A",
+  "parent": "ill health",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "arrival.n.02",
+  "term": "arrival",
+  "pseudo": "kakefon",
+  "definition": "the act of arriving at a certain place",
+  "renamed_definition": "the act of arriving at a certain place",
+  "options": [
+   "action",
+   "nonaccomplishment",
+   "judgment",
+   "disposal",
+   "activity"
+  ],
+  "answer": "A",
+  "parent": "action",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "ultraviolet.n.01",
+  "term": "ultraviolet",
+  "pseudo": "gisefun",
+  "definition": "radiation lying in the ultraviolet range; wave lengths shorter than light but longer than X rays",
+  "renamed_definition": "radiation lying in the gisefun range; wave lengths shorter than light but longer than X rays",
+  "options": [
+   "actinic radiation",
+   "microwave",
+   "gamma radiation",
+   "black-body radiation",
+   "line"
+  ],
+  "answer": "A",
+  "parent": "actinic radiation",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "exhibition.n.01",
+  "term": "exhibition",
+  "pseudo": "kavatax",
+  "definition": "the act of exhibiting",
+  "renamed_definition": "the act of exhibiting",
+  "options": [
+   "cabaret",
+   "demonstration",
+   "display",
+   "presentation",
+   "extravaganza"
+  ],
+  "answer": "D",
+  "parent": "presentation",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "crowd.n.01",
+  "term": "crowd",
+  "pseudo": "gefibux",
+  "definition": "a large number of things or people considered together",
+  "renamed_definition": "a large number of things or people considered together",
+  "options": [
+   "circuit",
+   "kin",
+   "association",
+   "swarm",
+   "gathering"
+  ],
+  "answer": "E",
+  "parent": "gathering",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "paradigm.n.01",
+  "term": "paradigm",
+  "pseudo": "fokemax",
+  "definition": "systematic arrangement of all the inflected forms of a word",
+  "renamed_definition": "systematic arrangement of all the inflected forms of a word",
+  "options": [
+   "subordination",
+   "conjunction",
+   "inflection",
+   "modification",
+   "semantic relation"
+  ],
+  "answer": "C",
+  "parent": "inflection",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "decoration.n.01",
+  "term": "decoration",
+  "pseudo": "vagidan",
+  "definition": "something used to beautify",
+  "renamed_definition": "something used to beautify",
+  "options": [
+   "artifact",
+   "remains",
+   "ice",
+   "natural object",
+   "shiner"
+  ],
+  "answer": "A",
+  "parent": "artifact",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "show.n.01",
+  "term": "show",
+  "pseudo": "mefesul",
+  "definition": "the act of publicly exhibiting or entertaining",
+  "renamed_definition": "the act of publicly exhibiting or entertaining",
+  "options": [
+   "entertainment",
+   "gambling",
+   "jest",
+   "lamentation",
+   "escape"
+  ],
+  "answer": "A",
+  "parent": "entertainment",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "leg.n.02",
+  "term": "leg",
+  "pseudo": "tezogun",
+  "definition": "a structure in animals that is similar to a human leg and used for locomotion",
+  "renamed_definition": "a structure in animals that is similar to a human tezogun and used for locomotion",
+  "options": [
+   "parapodium",
+   "fang",
+   "limb",
+   "fin",
+   "neck"
+  ],
+  "answer": "C",
+  "parent": "limb",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "resource.n.02",
+  "term": "resource",
+  "pseudo": "divudox",
+  "definition": "a source of aid or support that may be drawn upon when needed",
+  "renamed_definition": "a source of aid or support that may be drawn upon when needed",
+  "options": [
+   "counterfactuality",
+   "distinction",
+   "infiniteness",
+   "asset",
+   "changeableness"
+  ],
+  "answer": "D",
+  "parent": "asset",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "area.n.03",
+  "term": "area",
+  "pseudo": "voribix",
+  "definition": "a part of an animal that has a special function or is supplied by a given artery or nerve",
+  "renamed_definition": "a part of an animal that has a special function or is supplied by a given artery or nerve",
+  "options": [
+   "variable",
+   "world",
+   "unit",
+   "body part",
+   "inessential"
+  ],
+  "answer": "D",
+  "parent": "body part",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "reception.n.01",
+  "term": "reception",
+  "pseudo": "gofifal",
+  "definition": "the manner in which something is greeted",
+  "renamed_definition": "the manner in which something is greeted",
+  "options": [
+   "offer",
+   "greeting",
+   "narrative",
+   "credits",
+   "drivel"
+  ],
+  "answer": "B",
+  "parent": "greeting",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "excitability.n.01",
+  "term": "excitability",
+  "pseudo": "dizebur",
+  "definition": "excessive sensitivity of an organ or body part",
+  "renamed_definition": "excessive sensitivity of an organ or body part",
+  "options": [
+   "photosensitivity",
+   "exteroception",
+   "hypersensitivity",
+   "responsiveness",
+   "interoception"
+  ],
+  "answer": "D",
+  "parent": "responsiveness",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "ammunition.n.01",
+  "term": "ammunition",
+  "pseudo": "gebifal",
+  "definition": "projectiles to be fired from a gun",
+  "renamed_definition": "projectiles to be fired from a gun",
+  "options": [
+   "restoration",
+   "weaponry",
+   "medium",
+   "connection",
+   "block"
+  ],
+  "answer": "B",
+  "parent": "weaponry",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "flash.n.01",
+  "term": "flash",
+  "pseudo": "bozupon",
+  "definition": "a sudden intense burst of radiant energy",
+  "renamed_definition": "a sudden intense burst of radiant energy",
+  "options": [
+   "makeup",
+   "happening",
+   "migration",
+   "might-have-been",
+   "zap"
+  ],
+  "answer": "B",
+  "parent": "happening",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "excess.n.01",
+  "term": "excess",
+  "pseudo": "kareval",
+  "definition": "a quantity much larger than is needed",
+  "renamed_definition": "a quantity much larger than is needed",
+  "options": [
+   "wealth",
+   "plenty",
+   "profusion",
+   "overabundance",
+   "luxuriance"
+  ],
+  "answer": "D",
+  "parent": "overabundance",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "million.n.01",
+  "term": "million",
+  "pseudo": "fimason",
+  "definition": "the number that is represented as a one followed by 6 zeros",
+  "renamed_definition": "the number that is represented as a one followed by 6 zeros",
+  "options": [
+   "digit",
+   "root",
+   "remainder",
+   "large integer",
+   "base"
+  ],
+  "answer": "D",
+  "parent": "large integer",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "repetition.n.02",
+  "term": "repetition",
+  "pseudo": "dopubar",
+  "definition": "the act of doing or performing again",
+  "renamed_definition": "the act of doing or performing again",
+  "options": [
+   "continuance",
+   "rejection",
+   "placement",
+   "operation",
+   "follow-up"
+  ],
+  "answer": "A",
+  "parent": "continuance",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "drinking.n.01",
+  "term": "drinking",
+  "pseudo": "bakudan",
+  "definition": "the act of consuming liquids",
+  "renamed_definition": "the act of consuming liquids",
+  "options": [
+   "consumption",
+   "ovulation",
+   "ablactation",
+   "parturition",
+   "hypostasis"
+  ],
+  "answer": "A",
+  "parent": "consumption",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "reader.n.01",
+  "term": "reader",
+  "pseudo": "nomemal",
+  "definition": "a person who enjoys reading",
+  "renamed_definition": "a person who enjoys reading",
+  "options": [
+   "copycat",
+   "winker",
+   "scholar",
+   "gentile",
+   "lover"
+  ],
+  "answer": "C",
+  "parent": "scholar",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "somersault.n.01",
+  "term": "somersault",
+  "pseudo": "pirifil",
+  "definition": "an acrobatic feat in which the feet roll over the head (either forward or backward) and return",
+  "renamed_definition": "an acrobatic feat in which the feet roll over the head (either forward or backward) and return",
+  "options": [
+   "back circle",
+   "cartwheel",
+   "walkover",
+   "backbend",
+   "tumble"
+  ],
+  "answer": "E",
+  "parent": "tumble",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "soviets.n.01",
+  "term": "Soviets",
+  "pseudo": "bilutol",
+  "definition": "the government of the Soviet Union",
+  "renamed_definition": "the government of the Soviet Union",
+  "options": [
+   "federal government",
+   "totalitarian state",
+   "authoritarian state",
+   "court",
+   "state"
+  ],
+  "answer": "E",
+  "parent": "state",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "intonation.n.01",
+  "term": "intonation",
+  "pseudo": "lukodon",
+  "definition": "rise and fall of the voice pitch",
+  "renamed_definition": "rise and fall of the voice pitch",
+  "options": [
+   "legalese",
+   "turn of phrase",
+   "prosody",
+   "tone",
+   "grandiosity"
+  ],
+  "answer": "C",
+  "parent": "prosody",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "security.n.02",
+  "term": "security",
+  "pseudo": "kuvurin",
+  "definition": "defense against financial failure; financial independence",
+  "renamed_definition": "defense against financial failure; financial independence",
+  "options": [
+   "assets",
+   "association",
+   "affinity",
+   "temporal relation",
+   "linguistic relation"
+  ],
+  "answer": "A",
+  "parent": "assets",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "globulin.n.01",
+  "term": "globulin",
+  "pseudo": "zibogix",
+  "definition": "a family of proteins found in blood and milk and muscle and in plant seed",
+  "renamed_definition": "a family of proteins found in blood and milk and muscle and in plant seed",
+  "options": [
+   "fibrin",
+   "lipid",
+   "aleurone",
+   "recombinant protein",
+   "simple protein"
+  ],
+  "answer": "E",
+  "parent": "simple protein",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "claimant.n.01",
+  "term": "claimant",
+  "pseudo": "buselux",
+  "definition": "someone who claims a benefit or right or title",
+  "renamed_definition": "someone who claims a benefit or right or title",
+  "options": [
+   "polymorph",
+   "optimist",
+   "segregate",
+   "applicant",
+   "gatherer"
+  ],
+  "answer": "D",
+  "parent": "applicant",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "immediacy.n.01",
+  "term": "immediacy",
+  "pseudo": "dipafir",
+  "definition": "lack of an intervening or mediating agency",
+  "renamed_definition": "lack of an intervening or mediating agency",
+  "options": [
+   "factuality",
+   "directness",
+   "excellence",
+   "subjectivism",
+   "hot stuff"
+  ],
+  "answer": "B",
+  "parent": "directness",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "supervisor.n.01",
+  "term": "supervisor",
+  "pseudo": "sofupil",
+  "definition": "one who supervises or has charge and direction of",
+  "renamed_definition": "one who supervises or has charge and direction of",
+  "options": [
+   "mother hen",
+   "trainer",
+   "superior",
+   "Latin",
+   "percher"
+  ],
+  "answer": "C",
+  "parent": "superior",
+  "n_near_distractors": 4
+ },
+ {
+  "id": "occurrence.n.02",
+  "term": "occurrence",
+  "pseudo": "fobadun",
+  "definition": "an instance of something occurring",
+  "renamed_definition": "an instance of something occurring",
+  "options": [
+   "isomerism",
+   "imminence",
+   "representation",
+   "polyvalence",
+   "presence"
+  ],
+  "answer": "E",
+  "parent": "presence",
+  "n_near_distractors": 4
+ }
+]
